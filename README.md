@@ -8,6 +8,14 @@
 >
 > 当前版本：0.1.0 公开测试版。日常写文档、做表格已经可用；重要文件请勿只存唯一副本——先绑好你自己的存储并保持备份。已知问题见下方「已知限制」。
 
+## English summary
+
+Wenshu （文枢） is a free, open-source office suite for Windows and macOS. One app, four tools: Writer for documents, Calc for spreadsheets, Impress for presentations, and a PDF toolbox. It opens and saves docx, xlsx and pptx files directly, with a compatibility mode for complex documents it cannot yet edit natively.
+
+Local-first by design: there is no Wenshu server and no account to create. Files live only in storage you bind yourself — a local folder, a synced cloud-drive folder, or WebDAV (Jianguoyun, Nextcloud, Synology) — with optional client-side encryption under a password only you hold.
+
+This repository is the official download repo: installers and documentation are published here; source code is not. Current release: **v0.1.0 public beta**. Product page: https://kingai.work/products/office/ · User manual: https://kingai.work/products/office/help/
+
 ![文枢首页：四个入口和最近文档](https://kingai.work/img/prod-office-shot-home.png)
 *首页：文字、表格、演示、PDF 四个入口，加上最近打开过的文档，下次接着干不用翻文件夹。*
 
