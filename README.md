@@ -8,7 +8,7 @@
 >
 > 当前版本：0.1.0 公开测试版。日常写文档、做表格已经可用；重要文件请勿只存唯一副本——先绑好你自己的存储并保持备份。已知问题见下方「已知限制」。
 
-![文枢首页：四个入口和最近文档](docs/screenshots/01-home.png)
+![文枢首页：四个入口和最近文档](https://kingai.work/img/prod-office-shot-home.png)
 *首页：文字、表格、演示、PDF 四个入口，加上最近打开过的文档，下次接着干不用翻文件夹。*
 
 ## 打开 Office 文件，改完存回去
@@ -17,12 +17,12 @@ docx、xlsx、pptx 都由文枢自研的通道打开和保存，同事发来的�
 
 **Writer 文字**——写文档的地方。段落、标题、列表、表格、图片、脚注批注这些日常件都在，往返保存不丢内容。界面上方单独留了「公文」入口，党政机关公文的套版和 28 条规则体检都在里面。
 
-![Writer 文字：打开一份 docx 接着改](docs/screenshots/02-writer.png)
+![Writer 文字：打开一份 docx 接着改](https://kingai.work/img/prod-office-shot-writer.png)
 *Writer 文字：打开一份 docx 接着改；公文套版和体检在上方「公文」入口里。*
 
 **Calc 表格**——公式在本地算。大文件走流式读取加延迟计算，十万行量级的表也开得动（开发期实测口径，见详细介绍）。透视表能原样带回，Excel 里打开仍是活的。
 
-![Calc 表格：给已有的 xlsx 改公式、填数据](docs/screenshots/03-calc.png)
+![Calc 表格：给已有的 xlsx 改公式、填数据](https://kingai.work/img/prod-office-shot-calc.png)
 *Calc 表格：给已有的 xlsx 改公式、填数据，存回去还是 xlsx。*
 
 ## 文件在你手里，不在别人服务器上
@@ -41,7 +41,7 @@ docx、xlsx、pptx 都由文枢自研的通道打开和保存，同事发来的�
 
 看 PDF 加上一组小工具：合并、拆分、提取和删除页面、旋转、文字和图片水印、页码、页眉页脚、转图片，还有给 PDF 设密码的 AES-256 加密（桌面版）。全部在本机处理，文件不出电脑，结果另存新文件、永不覆盖原件。平时最烦的那种「把三个 PDF 合成一个再发出去」，拖进工具箱点合并，完事。
 
-![PDF 工具箱：合并、拆分、水印、页码、加密都在本机做](docs/screenshots/05-pdf.png)
+![PDF 工具箱：合并、拆分、水印、页码、加密都在本机做](https://kingai.work/img/prod-office-shot-pdf.png)
 *PDF 工具箱：把三个 PDF 合成一个、再加密发出去，全程不出这台电脑。*
 
 ## 下载
