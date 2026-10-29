@@ -103,3 +103,9 @@ v0.1.0 · 通用版，Intel 与 Apple 芯片都能装 · 约 14.4 MB · 免费�
 - [软件详细介绍](docs/软件详细介绍.md)——四个入口逐个讲清能力、实测口径与边界
 - [使用手册](docs/使用手册.md)——安装、绑存储、处理冲突、开加密，照着做就行
 - [版本更新记录](docs/版本更新记录.md)——每个版本实际进了什么变化
+
+## 关于 KINGAI / About KINGAI
+
+文枢是 KINGAI 的产品。KINGAI 是一家由在美华人创办、AI 智能驱动的未来科技公司，为中小企业做网站、App、定制软件与 AI 数字员工。全部产品与服务见[官网](https://kingai.work)。
+
+Wenshu is a KINGAI product. KINGAI is an AI-driven future technology company founded by Chinese entrepreneurs in the United States. We build websites, apps, custom software and AI staff for small businesses. Full shelf: [kingai.work](https://kingai.work) · GitHub profile: [github.com/kingaiwork](https://github.com/kingaiwork)
