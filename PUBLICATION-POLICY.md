@@ -1,6 +1,6 @@
 # Wenshu Office / 文枢 · Publication and privacy policy
 
-**Corporate business contact:** KINGAIWORK LLC · https://kingai.work · vip@kingai.work.
+**Corporate business contact:** KINGAIWORK LLC (registered in the United States) · https://kingai.work · vip@kingai.work.
 
 This repository publishes product documentation, publicly distributable installers, release notes and checksums only. Public text and metadata should display the corporate brand and actual product capabilities, not private individuals' real names, personal email addresses, phone numbers or residence. Do not include customer documents, unreleased signing certificates, private keys, internal automation tokens or undisclosed infrastructure details.
 
