@@ -112,6 +112,6 @@ Wenshu is a KINGAI product. KINGAI is an AI-driven future technology company fou
 
 ## 运营公司与公开隐私 · Corporate operator and privacy
 
-文枢的公开下载仓库由 **KINGAIWORK LLC** 作为 KINGAI 产品体系的一部分维护。公司注册于美国怀俄明州（2026-11-01；Entity ID 2026-002120886）。官网：https://kingai.work · 商务联系：vip@kingai.work。详见 [公司资料](https://github.com/kingaiwork/kingaiwork)。
+文枢的公开下载仓库由 **KINGAIWORK LLC** 作为 KINGAI 产品体系的一部分维护。KINGAIWORK LLC 是一家在美国注册的公司。官网：https://kingai.work · 商务联系：vip@kingai.work。更多公司信息请访问 https://kingai.work。
 
-Wenshu's public release repository is maintained within the KINGAI product portfolio by **KINGAIWORK LLC**, a Wyoming-registered US company. This corporate attribution does not alter existing software licenses, release status, installation warnings or third-party rights. Public release descriptions must not disclose private individuals' legal names, personal contact information, residential addresses, customer files or private signing/build credentials. Project pricing and contractual amounts are not published in the company GitHub directory.
+Wenshu's public release repository is maintained within the KINGAI product portfolio by **KINGAIWORK LLC**, a company registered in the United States. This corporate attribution does not alter existing software licenses, release status, installation warnings or third-party rights. Public release descriptions must not disclose private individuals' legal names, personal contact information, residential addresses, customer files or private signing/build credentials. Project pricing and contractual amounts are not published in the company GitHub directory.
