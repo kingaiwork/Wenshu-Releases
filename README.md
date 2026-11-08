@@ -109,3 +109,9 @@ v0.1.0 · 通用版，Intel 与 Apple 芯片都能装 · 约 14.4 MB · 免费�
 文枢是 KINGAI 的产品。KINGAI 是一家由在美华人创办、AI 智能驱动的未来科技公司，为中小企业做网站、App、定制软件与 AI 数字员工。全部产品与服务见[官网](https://kingai.work)。
 
 Wenshu is a KINGAI product. KINGAI is an AI-driven future technology company founded by Chinese entrepreneurs in the United States. We build websites, apps, custom software and AI staff for small businesses. Full shelf: [kingai.work](https://kingai.work) · GitHub profile: [github.com/kingaiwork](https://github.com/kingaiwork)
+
+## 运营公司与公开隐私 · Corporate operator and privacy
+
+文枢的公开下载仓库由 **KINGAIWORK LLC** 作为 KINGAI 产品体系的一部分维护。KINGAIWORK LLC 是一家在美国注册的公司。官网：https://kingai.work · 商务联系：vip@kingai.work。更多公司信息请访问 https://kingai.work。
+
+Wenshu's public release repository is maintained within the KINGAI product portfolio by **KINGAIWORK LLC**, a company registered in the United States. This corporate attribution does not alter existing software licenses, release status, installation warnings or third-party rights. Public release descriptions must not disclose private individuals' legal names, personal contact information, residential addresses, customer files or private signing/build credentials. Project pricing and contractual amounts are not published in the company GitHub directory.
